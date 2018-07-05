@@ -1,0 +1,45 @@
+#$_FOR_ROCKCHIP_RBOX_$
+#$_rbox_$_modify_$_chenzhi_20120220: add for IR remote
+
+# number:10
+key 2		1
+key 3		2
+key 4		3
+key 5		4
+key 6		5
+key 7		6
+key 8		7
+key 9		8
+key 10		9
+key 11		0
+
+# function: 4 + 回看+列表+屏显+信号源
+key 377		TV
+key 376		TV_INPUT_VGA_1
+key 240		TV_INPUT_HDMI_1
+key 379		TV_INPUT_COMPOSITE_1
+
+# system: 13
+key 116   	POWER
+key 102		HOME
+key 158   	BACK              
+key 139   	MENU         
+key 352    	DPAD_CENTER
+key 115   	VOLUME_UP
+key 114   	VOLUME_DOWN
+key 113		VOLUME_MUTE   
+key 103		DPAD_UP
+key 108		DPAD_DOWN
+key 105		DPAD_LEFT
+key 106		DPAD_RIGHT 
+key 141		SETTINGS
+
+# media: 8
+key 402   	CHANNEL_UP
+key 403   	CHANNEL_DOWN
+key 164		MEDIA_PLAY_PAUSE
+key 128		MEDIA_STOP
+key 407		MEDIA_NEXT
+key 412		MEDIA_PREVIOUS
+key 242		MEDIA_REWIND
+key 241		MEDIA_FAST_FORWARD
